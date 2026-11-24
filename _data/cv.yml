@@ -1,0 +1,55 @@
+# This file drives the /cv/ page (cv_format: rendercv in _pages/cv.md).
+# It is also used by the "Render a CV" GitHub Action (RenderCV) to generate a PDF.
+# Replace every TODO with your own information. Delete entries you do not need.
+cv:
+  name: Pengyu Mo
+  label: TODO # e.g. Ph.D. Student, M.S. Student, Research Engineer
+  email: TODO@example.com
+  phone: # optional, e.g. +1 (xxx)-xxx-xxxx
+  location: TODO City, Country
+  image: ""
+  # summary: TODO one or two sentences summarizing who you are and what you work on.
+
+  social_networks:
+    - network: Google Scholar
+      username: # TODO: your Google Scholar ID
+    - network: GitHub
+      username: Pengyu-Mo
+    - network: LinkedIn
+      username: # TODO: your LinkedIn username
+
+  sections:
+    Education:
+      - institution: TODO University
+        location: TODO City, Country
+        url: https://example.com
+        area: TODO Major / Field
+        studyType: TODO Degree (e.g. M.S.)
+        start_date: 2024-09
+        end_date: Now
+        # logo: assets/img/cv/your-school.png # optional: drop a logo into assets/img/cv/
+
+      - institution: TODO University
+        location: TODO City, Country
+        url: https://example.com
+        area: TODO Major / Field
+        studyType: TODO Degree (e.g. B.S.)
+        start_date: 2020-09
+        end_date: 2024-06
+
+    Experience:
+      - company: TODO Company or Lab
+        position: TODO Position
+        location: TODO City, Country
+        start_date: 2025-06
+        end_date: Present
+        # logo: assets/img/cv/your-company.png
+        highlights:
+          - "TODO: what you did"
+          - "TODO: what the impact was"
+
+    Awards:
+      - title: TODO Award name
+        date: 2024
+        awarder: TODO Organization
+        summary: TODO one line about the award

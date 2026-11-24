@@ -1,0 +1,13 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+# cv_pdf: /assets/pdf/CV_Pengyu_Mo.pdf # TODO: path to your CV PDF file (uncomment after adding the file)
+email: # TODO: your email address, e.g. name@university.edu
+# inspirehep_id: # Inspire HEP author ID (uncomment and add if you have one)
+rss_icon: false # comment this line to hide the RSS icon
+scholar_userid: # TODO: your Google Scholar ID (the "user=" part of your Google Scholar profile URL)
+github_username: Pengyu-Mo
+# linkedin_username: # TODO: your LinkedIn username
+# twitter_username: # your Twitter/X username
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format)
