@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>TODO: a short tagline or motto that appears under your name.</strong>
+subtitle: "<strong>TODO - a short tagline or motto that appears under your name.</strong>"
 
 profile:
   align: right

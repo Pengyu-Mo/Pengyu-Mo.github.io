@@ -28,13 +28,17 @@ publishes it to the `gh-pages` branch. GitHub Pages serves from that branch.
 
 ## Local preview
 
-Ruby is required. See `INSTALL.md` for the full guide, or use Docker:
+On this machine Ruby 3.3 (with MSYS2 DevKit and ImageMagick) is already installed, so from a
+PowerShell terminal in this folder just run:
 
-```bash
-docker compose up
+```powershell
+.\serve.ps1
 ```
 
-Then open <http://localhost:8080>.
+Then open <http://localhost:4000>. The page reloads automatically when you save a file.
+`.uild.ps1` produces a production build into `_site/` without serving it.
+
+On another machine see `INSTALL.md`, or use Docker (`docker compose up`, then <http://localhost:8080>).
 
 ## Credits
 
