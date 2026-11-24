@@ -2,7 +2,7 @@
 
 Personal academic website of Pengyu Mo, built with [Jekyll](https://jekyllrb.com/) and the
 [al-folio](https://github.com/alshedivat/al-folio) theme. Deployed to GitHub Pages at
-<https://pengyu-mo.github.io/Personal-Website/>.
+<https://pengyu-mo.github.io/>.
 
 ## Where to edit
 
