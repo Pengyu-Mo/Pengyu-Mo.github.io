@@ -36,7 +36,7 @@ PowerShell terminal in this folder just run:
 ```
 
 Then open <http://localhost:4000>. The page reloads automatically when you save a file.
-`.uild.ps1` produces a production build into `_site/` without serving it.
+`.build.ps1` produces a production build into `_site/` without serving it.
 
 On another machine see `INSTALL.md`, or use Docker (`docker compose up`, then <http://localhost:8080>).
 
